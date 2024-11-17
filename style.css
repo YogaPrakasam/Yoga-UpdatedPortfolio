@@ -645,7 +645,7 @@ section{
   margin-top: 10px;
   font-size: 16px;
 }
-@media(max-width:480px){
+@media(max-width:1024px){
   #menu-icon{
     display: block;
   }
