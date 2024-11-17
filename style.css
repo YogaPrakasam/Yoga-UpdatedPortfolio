@@ -649,6 +649,9 @@ section{
   #menu-icon{
     display: block;
   }
+    .about-img2 img{
+    display: none;
+  }
   .navbar{
     position: absolute;
     top: 100%;
